@@ -1,0 +1,24 @@
+
+# Python virtual environment
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and secrets
+.env
+.env.*
+
+# IDE and OS files
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Raw dataset (download separately)
+data/*.csv
